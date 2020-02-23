@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 # 根据设备ID号进行指定设备进行操作
 # 多线程控制多台设备
+#####运行程序时请配置adb环境##  ##
 import os
 import sys
 import threading
