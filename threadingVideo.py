@@ -2,6 +2,7 @@
 # 根据设备ID号进行指定设备进行操作
 # 多线程控制多台设备
 #####运行程序时请配置adb环境##  ##
+#####已打包好可用的软件 链接：https://pan.baidu.com/s/1RPPJO7VRm85JzzH61RI_vg 提取码：ny8q ##############################
 import os
 import sys
 import threading
